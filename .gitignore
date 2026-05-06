@@ -1,0 +1,7 @@
+# Excel workbooks generated locally on Windows by CriarPlanilhaSAP2000.vbs
+*.xlsm
+*.xlsx
+*.xlsb
+
+# Local download/package artifacts; keep source VBA/VBS/README in git
+*.zip
